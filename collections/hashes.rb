@@ -3,19 +3,21 @@
 # The most simple hash
 user = {}
 
-# Basic hash definition
+# 1
 first_hash = {
     'hello_world' => 'Hello world',
     'hola_mundo' => 'Hola  mundo',
     'pets' => []
 }
 
+# 2
 second_hash = {
     hello_world: "Hello world",
     hola_mundo: "Hola mundo"
 }
 
 
+# 3
 third_hash = {
     :hello_world => "Hello world",
     :hola_mundo => "Hola mundo"
