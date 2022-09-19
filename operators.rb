@@ -11,7 +11,6 @@
 / for division
 % for modulus
 ** for exponents
-
 =end
 
 # Ruby Comparison Operators
@@ -63,11 +62,11 @@ not
 # Examples of Ruby Logical Operators
 
 # Variables
-# a = 10
-# b = 20
-# c = 30
+a = 10
+b = 20
+c = 30
 
-# # using && operator
+# using && operator
 # if a == 10 && b == 20 && c == 30
 # 	puts "Logical AND Operator"
 # 	puts result = a * b * c
@@ -81,7 +80,7 @@ not
 
 # # using ! operator
 # puts "Logical Not Operator"
-# puts !(true)
+# puts !true
 	
 
 
