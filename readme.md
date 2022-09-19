@@ -1,3 +1,3 @@
 <h1 align="center">
-    Ruby Basics
+    Internship - Introduction to Ruby
 </h1>

@@ -1,4 +1,4 @@
-# Hashes
+## Hashes
 
 # The most simple hash
 user = {}
@@ -15,7 +15,6 @@ second_hash = {
     hello_world: "Hello world",
     hola_mundo: "Hola mundo"
 }
-
 
 # 3
 third_hash = {

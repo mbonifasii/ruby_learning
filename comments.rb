@@ -1,4 +1,4 @@
-
+## Comments
 
 
 # This is a single comment
@@ -9,11 +9,4 @@
     Something important to notice is that it should not have indentation, otherwise Ruby
     won't recognize it as a comment.
 =end
-
-    =begin
-        This won't work :()
-    =end
-
-    # This will
-    # do work
 

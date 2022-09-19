@@ -1,4 +1,4 @@
-# Operators
+## Operators
 
 
 
@@ -62,9 +62,9 @@ not
 # Examples of Ruby Logical Operators
 
 # Variables
-a = 10
-b = 20
-c = 30
+# a = 10
+# b = 20
+# c = 30
 
 # using && operator
 # if a == 10 && b == 20 && c == 30
