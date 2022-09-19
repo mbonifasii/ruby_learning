@@ -9,7 +9,7 @@
 # while x >= 1
 #     # statements to be executed
 #     puts "Ruby is cool"
-#     x = x - 1
+#     x -= 1
 #     # while loop ends here
 # end
 
@@ -21,29 +21,22 @@
 
 # using for loop with the range
 # for a in 1..5 do
-	
-# puts i
-
+#     puts a
 # end
 
 # Ruby program to illustrate 'do..while'loop
 # starting of do..while loop
+# a = 0
 # loop do
-	
-#     puts "GeeksforGeeks"
-    
-#     val = '7'
-    
+#     puts "Ruby is cool"
+#     a += 1
 #     # using boolean expressions
-#     if val == '7'
+#     if a.eql? 5
 #         break
 #     end
-    
-#     # ending of ruby do..while loop
 # end
 
 # Ruby program to illustrate 'until' loop
-
 # var = 7
 
 # using until loop
@@ -51,7 +44,8 @@
 # until var == 11 do
 #     # code to be executed
 #     puts var * 10
-#     var = var + 1
+#     var += 1
 
 #     # here loop ends
 # end
+

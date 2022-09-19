@@ -1,4 +1,4 @@
-## Decision-making statements
+# Decision-making statements
 
 
 # Sintax
@@ -57,13 +57,23 @@
 #   "Error: capacity has an invalid value (#{capacity})"
 # end
 
-
-# case expression
-# when option_1
-#   # your code
-# when option_2
-#   # your code
-# else
-#   # Will be executed if none of the rest it is
+# Unless statement
+# unless condition
+#     # your code
 # end
 
+# age = 18
+
+# message = ""
+
+# if age < 18
+#     message = "you are too young"
+# else
+#     message = "you are too old" 
+# end
+
+# message = age < 18 ? "you are too young" : "you are too old" 
+
+# ruby_is_easy = false
+
+# puts "super facil :) :achicopalado" if ruby_is_easy
