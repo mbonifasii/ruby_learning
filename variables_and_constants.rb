@@ -10,6 +10,3 @@
 
 # my_number = 20
 # MY_CONSTANT = 20 # will throw an error
-
-
-

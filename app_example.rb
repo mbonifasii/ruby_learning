@@ -7,7 +7,7 @@ puts "2. English"
 puts "3. German"
 puts ""
 puts "4. Leave"
-print "Tell us in which language you want us to say hello to you or choose 4 to leave: "
+print "Tell us in which language you want us to say 'hello' or choose 4 to leave: "
 choice = gets.to_i
 
 

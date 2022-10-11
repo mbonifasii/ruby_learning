@@ -1,4 +1,4 @@
-## Ruby conventions
+## Ruby naming conventions
 
 =begin
 Snake case is a way for coding where all names are lowercase written
