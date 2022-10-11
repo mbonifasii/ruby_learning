@@ -23,7 +23,7 @@
 >=
 <=
 .eql?
-equal?
+.equal?
 
 =end
 
